@@ -1,0 +1,21 @@
+This project analyzes the performance of TradeZone, a fast-growing Nigerian e-commerce platform operating across major cities including Lagos, Abuja, Kano, Port Harcourt, and Ibadan.
+
+The goal of this analysis is not just to report metrics, but to understand what is actually happening in the business and translate data into clear decisions for leadership.
+
+The project focuses on three key areas:
+
+Customer acquisition and conversion performance
+Product and category performance distribution
+Customer spending behaviour and revenue concentration
+
+All analysis was done using PostgreSQL, supported by structured data cleaning, validation checks, and business-focused SQL queries.
+
+🧠 Business Problem
+
+Despite rapid platform growth, TradeZone is facing three hidden structural issues:
+
+Weak conversion of new users into paying customers
+Heavy reliance on a small number of high-value customers
+Uneven product category performance despite marketing investment
+
+The Head of Growth and Head of Seller Operations requested an analysis that goes beyond dashboards and focuses on business decisions.
