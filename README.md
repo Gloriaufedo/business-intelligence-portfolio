@@ -20,11 +20,11 @@ I build dashboards and analysis that go beyond visuals by focusing on uncovering
 
 ## 🛠️ Tech Stack
 
-**SQL** – Joins, CTEs, Aggregations, Filtering
-**Power BI** – Data Modeling, DAX, KPI Reporting, Interactive Dashboards
-**Excel** – Pivot Tables, Slicers, Timelines, XLOOKUP, Dashboard Design
-**Python** – Pandas, Matplotlib, Data Cleaning, Exploratory Data Analysis  
-**Tableau** – Data Visualization
+- **SQL** – Joins, CTEs, Aggregations, Filtering
+- **Power BI** – Data Modeling, DAX, KPI Reporting, Interactive Dashboards
+- **Excel** – Pivot Tables, Slicers, Timelines, XLOOKUP, Dashboard Design
+- **Python** – Pandas, Matplotlib, Data Cleaning, Exploratory Data Analysis
+- **Tableau** – Data Visualization
 
 ---
 
