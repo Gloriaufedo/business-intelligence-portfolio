@@ -1,4 +1,3 @@
----
  **MEMO**
  
 To: Head of Growth & Head of Seller Operations
@@ -48,4 +47,3 @@ To answer this properly, we need to;
 - Access user behaviour data like app activity and product views.
 - Determine what drove the users to our platform. 
 - Conduct customer feedback or session tracking. This will help us understand whether the issue is pricing, user experience, trust, or product relevance.
----
