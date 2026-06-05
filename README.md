@@ -49,7 +49,9 @@ This analysis was conducted to investigate these issues and provide actionable r
 
 **Tools Used:**  
 `PostgreSQL (Data cleaning and analysis)`
+
 `SQL (CTEs, joins, aggregations, validation checks)`
+
 `Data quality assessment and transformation techniques`
 
 **Data Preparation:**
