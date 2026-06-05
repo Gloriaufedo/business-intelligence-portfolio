@@ -96,7 +96,7 @@ A full analyst memo was created for leadership summarising:
 - Data quality limitations
  -Strategic recommendations for Growth and Seller Operations
 
-👉 See: MEMO_TradeZone Growth.md
+ [View Analyst Memo](./MEMO_TradeZone Growth)
 
 **💡 Key Skills Demonstrated**
 - SQL-based data cleaning and transformation
