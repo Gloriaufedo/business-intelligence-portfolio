@@ -31,29 +31,85 @@ I build dashboards and analysis that go beyond visuals by focusing on uncovering
 # 📁 Featured Projects
 
 ---
-
-## 📈 Project 1: SQL Global Sales Analytics
+## 📈 Project 1: TradeZone Marketplace Performance Analysis (SQL + Business Memo)
 
 **Objective:**  
-Analyze regional sales performance to identify which markets generate the highest revenue versus the highest profitability.
+This project analyzes the performance of TradeZone, a fast-growing Nigerian e-commerce platform operating across major cities including Lagos, Abuja, Kano, Port Harcourt, and Ibadan.
+
+The goal of this analysis is not just to explore data, but to understand what is happening in the business and translate findings into decisions that support growth, seller performance, and customer retention.
 
 **Business Question:**  
-Are the highest-revenue regions also the most profitable once hidden cost differences are considered?
+Between 2023 and 2024, TradeZone experienced rapid growth. However, leadership identified concerns around:
+
+Declining customer retention and activation
+Uneven seller performance and fulfilment speed
+Over-reliance on specific product categories and customer groups
+
+This analysis was conducted to investigate these issues and provide actionable recommendations for the 2025 planning cycle.
 
 **Tools Used:**  
-`SQL`
+PostgreSQL (Data cleaning and analysis)
+SQL (CTEs, joins, aggregations, validation checks)
+Data quality assessment and transformation techniques
 
-**Key Skills Demonstrated:**  
-- Common Table Expressions (CTEs)  
-- Multi-table Joins  
-- Aggregations & Profit Calculations  
-- Revenue vs Profitability Analysis  
+**Data Preparation:**
+Before analysis, the dataset was cleaned to ensure accuracy and consistency. Key steps included:
+
+1. Handling missing values in critical fields
+2. Removing duplicate records across customers, sellers, and orders
+3. Standardising city and category naming conventions
+4. Validating order totals against line item calculations
+5. Flagging data inconsistencies such as: Invalid ratings (outside 1–5 range), negative pricing, unrealistic discount values
+
+These steps ensured that all insights were based on reliable and structured data.
+
+**📊 Business Questions Answered**
+The analysis was structured around 8 core business questions:
+
+1. Customer acquisition and 30-day conversion rates
+2. Top-performing products by revenue
+3. Seller fulfilment efficiency and delivery speed
+4. Quarterly revenue trends (2023 vs 2024)
+5. Customer spend segmentation
+6. Payment method preferences by state
+7. Product rating vs sales performance
+8. Top seller qualification analysis
 
 **Key Insight:**  
-This analysis revealed that **high revenue does not always translate to high profit**, helping shift focus from top-line sales to margin-aware performance decisions.
+1. Weak customer activation across all states
 
-🔗 **View SQL Code:**  
-[View SQL Project](./SQL_Project_Sales_Analysis.sql)
+New customer conversion within 30 days remains below optimal levels across all regions, with Lagos performing best but still under 50%.
+
+2. Revenue is highly concentrated in a single category
+
+Electronics dominates platform revenue, with all top-performing products in 2024 coming from this category. Other categories remain significantly underperforming despite platform activity.
+
+3. High dependency on a small group of customers
+
+A small group of high-spending customers contributes disproportionately to total revenue, indicating potential revenue risk if this segment churns.
+
+---
+
+**📄 Executive Deliverable**
+
+A full analyst memo was created for leadership summarising:
+
+- Key business findings
+- Data quality limitations
+ -Strategic recommendations for Growth and Seller Operations
+
+👉 See: Analyst_Memo.md
+
+**💡 Key Skills Demonstrated**
+- SQL-based data cleaning and transformation
+- Business performance analysis
+- Customer segmentation thinking
+- Seller performance evaluation
+- Executive-level reporting and storytelling
+  
+**📌 Project Outcome**
+
+This project demonstrates how raw transactional data can be transformed into business intelligence that supports decision-making across growth, retention, and operations.
 
 ---
 
@@ -293,6 +349,29 @@ The Power BI dashboard includes:
 🌐 **Live Interactive Dashboard:**  
 [View Full Screen Report](https://app.powerbi.com/view?r=eyJrIjoiMzM5NGNhYmYtMWQzMS00Zjk3LWIzODMtYWJiNjdhNzU3YTdiIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9&pageName=624f61e09829e77106e2)
 
+---
+## 📈 Project 8: SQL Global Sales Analytics
+
+**Objective:**  
+Analyze regional sales performance to identify which markets generate the highest revenue versus the highest profitability.
+
+**Business Question:**  
+Are the highest-revenue regions also the most profitable once hidden cost differences are considered?
+
+**Tools Used:**  
+`SQL`
+
+**Key Skills Demonstrated:**  
+- Common Table Expressions (CTEs)  
+- Multi-table Joins  
+- Aggregations & Profit Calculations  
+- Revenue vs Profitability Analysis  
+
+**Key Insight:**  
+This analysis revealed that **high revenue does not always translate to high profit**, helping shift focus from top-line sales to margin-aware performance decisions.
+
+🔗 **View SQL Code:**  
+[View SQL Project](./SQL_Project_Sales_Analysis.sql)
 ---
 
 ## 🎯 What These Projects Demonstrate
