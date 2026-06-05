@@ -177,6 +177,7 @@ Evaluate overall sales and marketing performance through an interactive business
 
 🌐 **Live Interactive Dashboard:**  
 [View Full Screen Report](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZTM3MzYtYzQzNi00ZTBlLTljMTMtY2NhNjVjZTgyY2Q2IiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9&pageName=814c9d8aca2b2b0390f5)
+![Dashboard Preview](./images/Sales%20and%20Marketing%20Deep%20dive.png)
 
 ---
 
