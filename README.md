@@ -20,11 +20,11 @@ I build dashboards and analysis that go beyond visuals by focusing on uncovering
 
 ## 🛠️ Tech Stack
 
-- **SQL** – Joins, CTEs, Aggregations, Filtering  
-- **Power BI** – Data Modeling, DAX, KPI Reporting, Interactive Dashboards  
-- **Excel** – Pivot Tables, Slicers, Timelines, XLOOKUP, Dashboard Design  
-- **Python** – Pandas, Matplotlib, Data Cleaning, Exploratory Data Analysis  
-- **Tableau** – Data Visualization  
+`**SQL** – Joins, CTEs, Aggregations, Filtering`
+`**Power BI** – Data Modeling, DAX, KPI Reporting, Interactive Dashboards` 
+`**Excel** – Pivot Tables, Slicers, Timelines, XLOOKUP, Dashboard Design`  
+`**Python** – Pandas, Matplotlib, Data Cleaning, Exploratory Data Analysis`  
+`**Tableau** – Data Visualization`  
 
 ---
 
@@ -48,32 +48,32 @@ Over-reliance on specific product categories and customer groups
 This analysis was conducted to investigate these issues and provide actionable recommendations for the 2025 planning cycle.
 
 **Tools Used:**  
-PostgreSQL (Data cleaning and analysis)
-SQL (CTEs, joins, aggregations, validation checks)
-Data quality assessment and transformation techniques
+`PostgreSQL (Data cleaning and analysis)`
+`SQL (CTEs, joins, aggregations, validation checks)`
+`Data quality assessment and transformation techniques`
 
 **Data Preparation:**
 Before analysis, the dataset was cleaned to ensure accuracy and consistency. Key steps included:
 
-1. Handling missing values in critical fields
-2. Removing duplicate records across customers, sellers, and orders
-3. Standardising city and category naming conventions
-4. Validating order totals against line item calculations
-5. Flagging data inconsistencies such as: Invalid ratings (outside 1–5 range), negative pricing, unrealistic discount values
+- Handling missing values in critical fields
+- Removing duplicate records across customers, sellers, and orders
+- Standardising city and category naming conventions
+- Validating order totals against line item calculations
+- Flagging data inconsistencies such as: Invalid ratings (outside 1–5 range), negative pricing, unrealistic discount values
 
 These steps ensured that all insights were based on reliable and structured data.
 
 **📊 Business Questions Answered**
 The analysis was structured around 8 core business questions:
 
-1. Customer acquisition and 30-day conversion rates
-2. Top-performing products by revenue
-3. Seller fulfilment efficiency and delivery speed
-4. Quarterly revenue trends (2023 vs 2024)
-5. Customer spend segmentation
-6. Payment method preferences by state
-7. Product rating vs sales performance
-8. Top seller qualification analysis
+- Customer acquisition and 30-day conversion rates
+- Top-performing products by revenue
+- Seller fulfilment efficiency and delivery speed
+- Quarterly revenue trends (2023 vs 2024)
+- Customer spend segmentation
+- Payment method preferences by state
+- Product rating vs sales performance
+- Top seller qualification analysis
 
 **Key Insight:**  
 1. Weak customer activation across all states
@@ -87,8 +87,6 @@ Electronics dominates platform revenue, with all top-performing products in 2024
 3. High dependency on a small group of customers
 
 A small group of high-spending customers contributes disproportionately to total revenue, indicating potential revenue risk if this segment churns.
-
----
 
 **📄 Executive Deliverable**
 
