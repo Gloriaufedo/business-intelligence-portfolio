@@ -231,18 +231,18 @@ The analysis identified several important trends:
 
 ### Executive Overview
 
-![Executive Overview](./Project%207%20-%20Executive%20Business%20Review/ebr-overview.png)
+![Executive Overview](./Project%207%20-%20Executive%20Business%20Review%20Dashboard/ebr-overview.png)
 
 ---
 
 ### Commercial Dashboard
 
-![Commercial Dashboard](./Project%207%20-%20Executive%20Business%20Review/ebr-commercial.png)
+![Commercial Dashboard](./Project%207%20-%20Executive%20Business%20Review%20Dashboard/ebr-commercial.png)
 
 ---
 
 ### Customer & Operations Dashboard
-![Customer Dashboard](./Project%207%20-%20Executive%20Business%20Review/ebr-customers.png)
+![Customer Dashboard](./Project%207%20-%20Executive%20Business%20Review%20Dashboard/ebr-customers.png)
 
 ---
 
