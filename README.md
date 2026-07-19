@@ -231,18 +231,18 @@ The analysis identified several important trends:
 
 ### Executive Overview
 
-![Executive Overview](https://raw.githubusercontent.com/Gloriaufedo/business-intelligence-portfolio/main/Project%207%20-%20Executive%20Business%20Review/ebr-overview.png)
+![Executive Overview](./Project%207%20-%20Executive%20Business%20Review/ebr-overview.png)
 
 ---
 
 ### Commercial Dashboard
 
-![Commercial Dashboard](https://raw.githubusercontent.com/Gloriaufedo/business-intelligence-portfolio/main/Project%207%20-%20Executive%20Business%20Review/ebr-commercial.png)
+![Commercial Dashboard](./Project%207%20-%20Executive%20Business%20Review/ebr-commercial.png)
 
 ---
 
 ### Customer & Operations Dashboard
-![Customer Dashboard](https://raw.githubusercontent.com/Gloriaufedo/business-intelligence-portfolio/main/Project%207%20-%20Executive%20Business%20Review/ebr-customers.png)
+![Customer Dashboard](./Project%207%20-%20Executive%20Business%20Review/ebr-customers.png)
 
 ---
 
