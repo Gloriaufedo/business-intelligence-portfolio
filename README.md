@@ -1,262 +1,264 @@
-# 📊 Business Intelligence & Data Analytics Portfolio
+# 👋 Hi, I'm Gloria Austin
 
-Hi, I'm **Gloria Austin**, a **Business Intelligence Analyst** passionate about transforming complex business data into actionable insights that drive smarter decision-making.
+### Business Intelligence Analyst | Data Analyst | Reporting Analyst
 
-This portfolio showcases end-to-end analytics projects built with **SQL, Excel, Power BI, PostgreSQL, and Python**, solving real-world business problems in executive reporting, customer analytics, sales performance, operational monitoring, and marketing intelligence.
+I transform complex business data into executive-ready insights through **Excel, SQL, PostgreSQL, Power BI, and Python**.
 
----
-
-## 🛠️ Tech Stack
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+My portfolio showcases end-to-end analytics projects focused on executive reporting, customer analytics, sales performance, operational monitoring, and business intelligence solutions that support strategic decision-making.
 
 ---
 
-# 🏆 Featured Project
+## 📫 Connect With Me
+
+📧 **Email:** gloriaaustin002@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/gloria-austin-143334292
+
+💻 **GitHub:** https://github.com/Gloriaufedo
+
+---
+
+# 🛠 Tech Stack
+
+### Business Intelligence
+
+- Microsoft Excel
+- Power BI
+- Power Query
+
+### Databases
+
+- SQL
+- PostgreSQL
+
+### Programming
+
+- Python
+- Pandas
+- NumPy
+
+### Data Visualization
+
+- Power BI
+- Microsoft Excel
+- Matplotlib
+
+### Version Control
+
+- Git
+- GitHub
+
+---
+
+# 🏆 Featured Projects
+
+| Project | Tools | Focus |
+|---------|-------|------|
+| ⭐ Executive Business Review Dashboard | Excel | Executive Reporting |
+| Climate Change Sentiment Analytics | PostgreSQL, Power BI | Big Data Analytics |
+| Customer Retention & Churn Analytics | SQL, Power BI, Excel | Customer Analytics |
+| Global Sales Analytics | SQL | Sales Intelligence |
+| Sales & Marketing Dashboard | Power BI | Marketing Analytics |
+| Employee Salary Analysis | Python | Exploratory Data Analysis |
+| Amazon Sales EDA | Python | Retail Analytics |
+
+---
+
+# ⭐ Featured Project
 
 # Executive Business Review Dashboard (Microsoft Excel)
 
-> An executive-level interactive dashboard designed to help senior leadership monitor company performance across revenue, profitability, customers, products, and operations through a single reporting interface.
-
----
-
-## 📸 Dashboard Preview
-
-*(Insert your dashboard screenshots here)*
+> Interactive executive reporting solution built to monitor revenue, profitability, customers, products, and operational performance from a single reporting interface.
 
 ---
 
 ## 📌 Business Problem
 
-Business leaders often spend significant time consolidating reports from multiple departments before making strategic decisions.
+Senior leadership teams often receive information from multiple reports, making it difficult to quickly evaluate business performance.
 
-This dashboard centralizes key business metrics into one interactive Executive Business Review, enabling faster performance monitoring, trend analysis, and data-driven decision-making.
-
----
-
-## 🎯 Business Questions Answered
-
-- Which countries generate the highest revenue?
-- How has revenue changed over time?
-- Which product categories contribute most to profitability?
-- Which products require immediate management attention?
-- How healthy are business margins?
-- Which customer segments generate the highest value?
-- What operational trends could affect customer satisfaction?
+This project consolidates key business metrics into an executive dashboard that enables decision-makers to monitor performance, identify trends, compare year-over-year results, and explore business performance through interactive filtering.
 
 ---
 
-## 📊 Dashboard Pages
+## 🎯 Project Objectives
 
-### Executive Overview
+- Build an executive reporting solution in Microsoft Excel.
+- Monitor company-wide KPIs.
+- Compare Year-over-Year business performance.
+- Analyse commercial performance.
+- Track customer and operational metrics.
+- Provide actionable executive insights.
+- Create a clean and intuitive reporting experience.
 
-- Executive KPI Scorecards
-- Revenue Trend Analysis
+---
+
+# 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Slicers
+- Timeline Filters
+- Form Controls
+- Camera Tool
+- Conditional Formatting
+- Dynamic Named Ranges
+
+---
+
+# 📊 Dashboard Pages
+
+## 1️⃣ Executive Overview
+
+Provides a high-level summary of company performance.
+
+### KPIs
+
+- Revenue
+- Profit
+- Margin
+- Orders
+- Customers
+- Units Sold
+
+### Visuals
+
+- Revenue Trend
 - Revenue by Country
 - Category Performance
-- Automated Business Insights
-- Interactive Slicers
-- Year-over-Year Performance Comparison
+- Executive Business Insights
+
+### Features
+
+✔ Dynamic KPI Cards
+
+✔ Year-over-Year Comparisons
+
+✔ Interactive Slicers
+
+✔ Navigation Buttons
+
+✔ Executive Recommendations
 
 ---
 
-### Commercial Performance
+## 2️⃣ Commercial Dashboard
+
+Provides detailed insights into product and category performance.
+
+### Visuals
 
 - Best Performing Products
 - Products Requiring Attention
 - Revenue vs Profit Analysis
 - Revenue Contribution by Category
 
+### Business Value
+
+Helps management identify:
+
+- Top-performing products
+- Low-performing products
+- High-margin categories
+- Revenue concentration
+
 ---
 
-### Customer & Operations
+## 3️⃣ Customer & Operations Dashboard
+
+Provides operational and customer performance insights.
+
+### Visuals
 
 - Customer Value Distribution
-- Customer Demographic Analysis
+- Customer Demographics Mix
 - Operational Performance & SLA Tracking
-- Regional Revenue Performance
+- Regional Performance
 
----
+### Business Value
 
-## 📈 KPIs Monitored
-
-- Revenue
-- Profit
-- Margin %
-- Orders
-- Customers
-- Units Sold
-- Year-over-Year Growth
-- Regional Revenue
-- Category Revenue
-- Average Delivery Days
-
----
-
-## 🛠 Tools Used
-
-- Microsoft Excel
-- Power Query
-- Power Pivot
-- Pivot Tables
-- Pivot Charts
-- Interactive Slicers
-- Excel Form Controls
-
----
-
-## 💡 Skills Demonstrated
-
-- Executive Reporting
-- Business Intelligence
-- KPI Development
-- Dashboard Design
-- Business Storytelling
-- Data Cleaning & Transformation
-- Interactive Reporting
-- Data Visualization
-
----
-
-## 📈 Key Insights
-
-- The United States consistently generated the highest revenue across all markets.
-- Computers and Home Appliances remained the strongest-performing product categories.
-- Games & Toys consistently underperformed, highlighting opportunities for targeted commercial strategies.
-- Revenue concentration across a few major markets suggests diversification opportunities.
-
----
-
-## 🎯 Business Recommendations
-
-- Increase investment in high-performing regions while improving market penetration in underperforming countries.
-- Expand high-margin product categories to improve profitability.
-- Implement targeted promotional campaigns for underperforming product lines.
-- Continue monitoring operational KPIs to improve customer experience and delivery performance.
-
----
-
-# 📁 Portfolio Projects
-
-## 📊 Executive Business Review Dashboard
-
-**Tools:** Excel • Power Query • Power Pivot
-
-Interactive executive reporting solution providing a comprehensive view of organizational performance through dynamic dashboards and automated insights.
-
----
-
-## 🌍 Climate Change Public Opinion Analysis
-
-**Tools:** PostgreSQL • SQL • Power BI
-
-Analyzed **15.7 million climate-related tweets** to explore global public sentiment toward climate change.
-
-### Highlights
-
-- Large-scale SQL data transformation
-- Sentiment classification
-- Trend analysis
-- Geographic analysis
-- Interactive Power BI dashboard
-
----
-
-## 👥 Customer Retention & Churn Analysis
-
-**Tools:** SQL • Power BI • Excel
-
-Built an executive dashboard to identify customer churn patterns, retention opportunities, purchasing behavior, and revenue contribution.
-
-### Highlights
+Supports decisions relating to:
 
 - Customer segmentation
-- Churn analysis
-- Executive KPI reporting
-- Revenue contribution analysis
+- Operational efficiency
+- Delivery performance
+- Regional sales strategy
 
 ---
 
-## 📈 Sales & Marketing Performance Dashboard
+# 🎯 Key Features
 
-**Tools:** Power BI • SQL • Excel
-
-Interactive dashboard measuring sales performance, marketing effectiveness, revenue growth, and campaign performance.
-
----
-
-## 🛒 Global Sales Analytics
-
-**Tools:** PostgreSQL
-
-Performed advanced SQL analysis using joins, CTEs, views, aggregate functions, and window functions to answer complex business questions and uncover sales insights.
-
----
-
-## 👨‍💻 Employee Salary Analysis
-
-**Tools:** Python • Pandas • Matplotlib
-
-Performed exploratory data analysis to identify salary trends, workforce distribution, and compensation insights using Python.
+- Executive reporting interface
+- Interactive navigation buttons
+- Dynamic KPI cards
+- Year-over-Year KPI tracking
+- Multi-select slicers
+- Timeline filtering
+- Automated PivotTables
+- Dynamic Pivot Charts
+- Conditional formatting
+- Executive recommendations
+- Camera Tool integration
+- Professional dashboard design
 
 ---
 
-# 💼 Core Competencies
+# 📈 Business Insights
 
-- Business Intelligence
+The analysis identified several important trends:
+
+- The United States consistently generated the highest revenue.
+- Computers remained the strongest-performing product category.
+- Home Appliances contributed significantly to profitability.
+- Games and Toys generated the lowest revenue.
+- Revenue peaked in 2019 before declining in 2020.
+- Regional performance varied considerably across markets.
+
+---
+
+# 💡 Recommendations
+
+- Increase investment in high-performing markets.
+- Expand high-margin product categories.
+- Improve marketing in underperforming regions.
+- Review low-performing product lines.
+- Continue monitoring operational KPIs using executive dashboards.
+
+---
+
+# 📷 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Project%207%20-%20Executive%20Business%20Review/ebr-overview.png)
+
+---
+
+### Commercial Dashboard
+
+![Commercial Dashboard](Project%207%20-%20Executive%20Business%20Review/ebr-commercial.png)
+
+---
+
+### Customer & Operations Dashboard
+
+![Customer Dashboard](Project%207%20-%20Executive%20Business%20Review/ebr-customers.png)
+
+---
+
+# 🚀 Skills Demonstrated
+
 - Executive Reporting
-- Dashboard Development
-- KPI Design
-- SQL Analytics
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Business Storytelling
-- Decision Support
+- Business Intelligence
+- Dashboard Design
+- KPI Development
+- Excel Automation
+- Data Storytelling
+- Interactive Reporting
+- Business Performance Analysis
+- Commercial Analytics
+- Customer Analytics
+- Operational Analytics
 
 ---
-
-# 🛠 Technical Skills
-
-### Analytics
-
-- Microsoft Excel
-- Power BI
-- Power Query
-- DAX
-
-### Databases
-
-- PostgreSQL
-- MySQL
-
-### Programming
-
-- SQL
-- Python
-
-### Productivity
-
-- Git
-- GitHub
-- Microsoft Office
-- Google Workspace
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** gloriaaustin002@gmail.com  
-
-🔗 **LinkedIn:** [Gloria Austin](http://www.linkedin.com/in/gloria-austin-143334292)
-
-💻 **GitHub:** https://github.com/Gloriaufedo
-
----
-
-⭐ Thank you for visiting my portfolio! I’m always excited to collaborate on data-driven projects and continuously expand my expertise in Business Intelligence, Analytics, and Data Science.
