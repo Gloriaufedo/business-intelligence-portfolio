@@ -1,409 +1,262 @@
-# 📊 Data Analytics & Business Intelligence Portfolio
+# 📊 Business Intelligence & Data Analytics Portfolio
 
-Hi, I am **Gloria Austin**, a **Data Analyst** passionate about transforming messy business data into clear, actionable insights that support smarter decisions.
+Hi, I'm **Gloria Austin**, a **Business Intelligence Analyst** passionate about transforming complex business data into actionable insights that drive smarter decision-making.
 
-This portfolio showcases end-to-end analytics projects across **SQL, Excel, Power BI, and Python**, focused on solving real business problems in **sales, marketing, profitability, and workforce analytics**.
-
-I build dashboards and analysis that go beyond visuals by focusing on uncovering trends, identifying performance gaps, and translating data into business recommendations.
-
----
-
-## 🔍 What You'll Find in This Portfolio
-
-- **SQL analysis** for profitability and revenue insights  
-- **Excel dashboards** with interactive slicers and KPI tracking  
-- **Power BI dashboards** for sales, marketing, and business intelligence reporting  
-- **Python EDA projects** for data cleaning, exploration, and insight generation  
-- **Business-focused storytelling** that turns raw data into decision-ready insights  
+This portfolio showcases end-to-end analytics projects built with **SQL, Excel, Power BI, PostgreSQL, and Python**, solving real-world business problems in executive reporting, customer analytics, sales performance, operational monitoring, and marketing intelligence.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **SQL** – Joins, CTEs, Aggregations, Filtering
-- **Power BI** – Data Modeling, DAX, KPI Reporting, Interactive Dashboards
-- **Excel** – Pivot Tables, Slicers, Timelines, XLOOKUP, Dashboard Design
-- **Python** – Pandas, Matplotlib, Data Cleaning, Exploratory Data Analysis
-- **Tableau** – Data Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# 📁 Featured Projects
+# 🏆 Featured Project
 
----
-## 📈 Project 1: TradeZone Marketplace Performance Analysis (SQL + Business Memo)
+# Executive Business Review Dashboard (Microsoft Excel)
 
-**Objective:**  
-This project analyzes the performance of TradeZone, a fast-growing Nigerian e-commerce platform operating across major cities including Lagos, Abuja, Kano, Port Harcourt, and Ibadan.
-
-The goal of this analysis is not just to explore data, but to understand what is happening in the business and translate findings into decisions that support growth, seller performance, and customer retention.
-
-**Business Question:**  
-Between 2023 and 2024, TradeZone experienced rapid growth. However, leadership identified concerns around:
-
-Declining customer retention and activation
-Uneven seller performance and fulfilment speed
-Over-reliance on specific product categories and customer groups
-
-This analysis was conducted to investigate these issues and provide actionable recommendations for the 2025 planning cycle.
-
-**Tools Used:**  
-`PostgreSQL (Data cleaning and analysis)`
-
-`SQL (CTEs, joins, aggregations, validation checks)`
-
-`Data quality assessment and transformation techniques`
-
-**Data Preparation:**
-Before analysis, the dataset was cleaned to ensure accuracy and consistency. Key steps included:
-
-- Handling missing values in critical fields
-- Removing duplicate records across customers, sellers, and orders
-- Standardising city and category naming conventions
-- Validating order totals against line item calculations
-- Flagging data inconsistencies such as: Invalid ratings (outside 1–5 range), negative pricing, unrealistic discount values
-
-These steps ensured that all insights were based on reliable and structured data.
-
-**📊 Business Questions Answered**
-The analysis was structured around 8 core business questions:
-
-- Customer acquisition and 30-day conversion rates
-- Top-performing products by revenue
-- Seller fulfilment efficiency and delivery speed
-- Quarterly revenue trends (2023 vs 2024)
-- Customer spend segmentation
-- Payment method preferences by state
-- Product rating vs sales performance
-- Top seller qualification analysis
-
-**Key Insight:**  
-1. Weak customer activation across all states
-
-New customer conversion within 30 days remains below optimal levels across all regions, with Lagos performing best but still under 50%.
-
-2. Revenue is highly concentrated in a single category
-
-Electronics dominates platform revenue, with all top-performing products in 2024 coming from this category. Other categories remain significantly underperforming despite platform activity.
-
-3. High dependency on a small group of customers
-
-A small group of high-spending customers contributes disproportionately to total revenue, indicating potential revenue risk if this segment churns.
-
-**📄 Executive Deliverable**
-
-A full analyst memo was created for leadership summarising:
-
-- Key business findings
-- Data quality limitations
- -Strategic recommendations for Growth and Seller Operations
-
- [View Analyst Memo](./MEMO_TradeZone_Growth.md)
-
-**💡 Key Skills Demonstrated**
-- SQL-based data cleaning and transformation
-- Business performance analysis
-- Customer segmentation thinking
-- Seller performance evaluation
-- Executive-level reporting and storytelling
-  
-**📌 Project Outcome**
-
-This project demonstrates how raw transactional data can be transformed into business intelligence that supports decision-making across growth, retention, and operations.
+> An executive-level interactive dashboard designed to help senior leadership monitor company performance across revenue, profitability, customers, products, and operations through a single reporting interface.
 
 ---
 
-## 📊 Project 2: Dynamic Sales Performance Dashboard (Excel)
+## 📸 Dashboard Preview
 
-**Objective:**  
-Build an interactive sales dashboard to track **2023 sales performance** across customer and product segments.
-
-**Business Question:**  
-How do sales trends vary by **month, gender, product category, and age group**, and which segments are driving performance?
-
-**Tools Used:**  
-`Excel`
-
-**Key Skills Demonstrated:**  
-- Pivot Tables  
-- Slicers & Timelines  
-- Advanced Charting  
-- KPI Monitoring  
-- Interactive Dashboard Design  
-
-**What This Dashboard Tracks:**  
-- Monthly sales performance  
-- Category-level trends  
-- Customer segment performance  
-- Month-over-Month (MoM) comparisons  
-
-**Dashboard Preview:**  
-
-![Sales Dashboard Overview](./images/EXCEL%20DASHBOARD.PNG)
-
-**Additional Views:**  
-
-![Slicer Interactivity Example](./images/Female%20Slicer%20EXCEL%20DASHBOARD.jpg)
-
-![March MoM Value](./images/Mar%20MoM%20Value.jpg)
+*(Insert your dashboard screenshots here)*
 
 ---
 
-## 📉 Project 3: Power BI Sales & Marketing Intelligence Dashboard
+## 📌 Business Problem
 
-**Objective:**  
-Evaluate overall sales and marketing performance through an interactive business intelligence dashboard.
+Business leaders often spend significant time consolidating reports from multiple departments before making strategic decisions.
 
-**Business Questions:**  
-- Which products and platforms are driving the strongest results?  
-- How is performance changing month-over-month?  
-- What is the return on ad spend (ROAS) across campaigns?  
-
-**Tools Used:**  
-`Power BI`, `DAX`
-
-**Key Skills Demonstrated:**  
-- Data Transformation & ETL  
-- Advanced DAX Modeling  
-- Relational Data Modeling  
-- KPI Dashboard Development  
-- Business Intelligence Storytelling  
-
-**Key Metrics Covered:**  
-- Revenue  
-- Marketing Spend  
-- Return on Ad Spend (ROAS)  
-- Product Performance  
-- Platform Performance  
-- Month-over-Month Trends  
-
-🌐 **Live Interactive Dashboard:**  
-[View Full Screen Report](https://app.powerbi.com/view?r=eyJrIjoiZTQ0ZTM3MzYtYzQzNi00ZTBlLTljMTMtY2NhNjVjZTgyY2Q2IiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9&pageName=814c9d8aca2b2b0390f5)
-
-**Live Dashbboard Preview**
-
-![Dashboard Preview](./images/Sales%20and%20Marketing%20Deep%20dive.png)
+This dashboard centralizes key business metrics into one interactive Executive Business Review, enabling faster performance monitoring, trend analysis, and data-driven decision-making.
 
 ---
 
-## 🛒 Project 4: Amazon Sales Performance & Exploratory Data Analysis
+## 🎯 Business Questions Answered
 
-**Objective:**  
-Explore Amazon sales data to uncover product trends, discount behavior, and rating patterns.
-
-**Business Questions:**  
-- Which products are the most popular?  
-- Do discounts drive stronger sales performance?  
-- How do ratings vary across products and pricing strategies?  
-
-**Tools Used:**  
-`Python`, `Power BI`
-
-**Key Skills Demonstrated:**  
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Preparation  
-- Correlation Analysis  
-- Trend Identification  
-- Data Storytelling  
-
-**What This Project Explores:**  
-- Product popularity trends  
-- Discount vs sales relationship  
-- Rating distributions  
-- Category-level performance patterns  
-
-🌐 **Live Interactive Dashboard:**  
-[View Full Screen Report](https://app.powerbi.com/view?r=eyJrIjoiOWI1MzMyNjEtNzBhNy00MjU4LThjOGQtNjBkNmU2ZjUyNTkwIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9)
+- Which countries generate the highest revenue?
+- How has revenue changed over time?
+- Which product categories contribute most to profitability?
+- Which products require immediate management attention?
+- How healthy are business margins?
+- Which customer segments generate the highest value?
+- What operational trends could affect customer satisfaction?
 
 ---
 
-## 💼 Project 5: Python Employees Salary Analysis
+## 📊 Dashboard Pages
 
-**Objective:**  
-Conduct exploratory analysis on employee salary data to understand compensation patterns and identify workforce pay insights.
+### Executive Overview
 
-**Business Question:**  
-What does the salary distribution reveal about pay structure, variability, and possible equity patterns within an organization?
-
-**Tools Used:**  
-`Python`
-
-**Key Skills Demonstrated:**  
-- Pandas for data cleaning and transformation  
-- Matplotlib for visualization  
-- Salary distribution analysis  
-- Exploratory Data Analysis (EDA)  
-
-**Focus Areas:**  
-- Salary distribution patterns  
-- Compensation spread  
-- Outlier detection  
-- Workforce analytics insights  
-
-🔗 **View Python Project:**  
-[Open Salary Analysis Repository](https://github.com/Gloriaufedo/salary-data-analysis)
+- Executive KPI Scorecards
+- Revenue Trend Analysis
+- Revenue by Country
+- Category Performance
+- Automated Business Insights
+- Interactive Slicers
+- Year-over-Year Performance Comparison
 
 ---
 
-## 📊 Project 6: Customer Retention & Churn Analysis (SQL + Power BI + Excel)
+### Commercial Performance
 
-**Objective:** Analyzed customer purchase behavior to evaluate retention, churn risk, repeat purchase patterns, and revenue contribution. Built an executive-style dashboard to help stakeholders understand customer value and identify opportunities for retention-focused growth.
-
-### **Business Questions**
-- How many customers are repeat buyers vs one-time buyers?
-- What percentage of customers are retained vs churned?
-- How much revenue comes from repeat customers compared to one-time customers?
-- How does customer activity and revenue trend over time?
-- Which purchase frequency segment contributes the most revenue?
-
-### **Tools Used**
-- **Excel** – Data cleaning and preparation  
-- **MySQL** – Data transformation, customer-level analysis, retention and churn logic  
-- **Power BI** – Dashboard design and business storytelling  
-
-### **Key Skills Demonstrated**
-- Data cleaning and CSV preparation in Excel  
-- SQL aggregation and transformation  
-- Customer segmentation (one-time vs repeat buyers)  
-- Retention and churn analysis using a 90-day inactivity rule  
-- KPI development and executive dashboard design in Power BI  
-- Business insight generation and recommendation writing  
-
-### **Key Metrics**
-- **Total Customers:** 2,576  
-- **Total Orders:** 6,543  
-- **Total Revenue:** 2.95M  
-- **Average Order Value:** 451.31  
-- **Repeat Purchase Rate:** 47.71%  
-- **Retention Rate:** 76.01%  
-- **Churn Rate:** 23.99%  
-
-### **Key Insights**
-- Repeat customers generated **2.39M** in revenue, contributing **81.04%** of total revenue despite representing less than half of the customer base.  
-- One-time customers contributed only **18.96%** of total revenue, highlighting the importance of converting first-time buyers into repeat customers.  
-- The business retained **76.01%** of customers, but **23.99%** were classified as churned using a 90-day inactivity rule, revealing opportunities for win-back strategies.  
-- Customers with higher order frequency contributed the largest share of revenue, showing a strong link between repeat purchases and customer lifetime value.  
-
-### **Dashboard Highlights**
-- KPI cards for customer, order, revenue, retention, and churn metrics  
-- Revenue contribution by customer type  
-- Customer base split by churn status  
-- Revenue by purchase frequency segment  
-- Monthly revenue and active customer trend  
-- Interactive date slicer for time-based filtering  
-
-📁 **Project Folder:** [View Project 6 Files](./Project%206%20-%20Customer%20Retention%20%26%20Churn%20Analysis/)
-
-!🖼️ **Dashboard Preview:** See `customer_retention_churn_dashboard.png` inside the project folder.
+- Best Performing Products
+- Products Requiring Attention
+- Revenue vs Profit Analysis
+- Revenue Contribution by Category
 
 ---
 
-## 📊 Project 7: Global Sales and Operations Performance Analysis (Power BI)
+### Customer & Operations
 
-**Overview:** This project analyzes the sales performance of Northwind Traders using Power BI, focusing on uncovering patterns in revenue, product performance, customer contribution, and operational efficiency. The goal was to move beyond surface-level metrics and critically evaluate what the data actually reveals.
-
-### **Objectives**
-- Evaluate overall sales performance and trends
-- Identify top-performing products and categories
-- Analyze customer contribution to revenue
-- Assess the effectiveness of discounting
-- Examine shipping costs across regions
-- Identify inconsistencies in key business metrics
-
-### **Tools Used**
-- Power BI – data modeling, analysis, and dashboard development
-
-### **Dataset**
-The Northwind Traders Dataset contains transactional sales data, including:
-
-- Orders and order details
-- Products and categories
-- Customers and regions
-- Shipping information
-
-Data was imported directly into Power BI by loading CSV files.
-
-### **Key Insights**
-- **Year-on-Year growth is misleading**
-A 179% increase in revenue initially suggests strong performance. However, the dataset only includes partial data for 2013 and 2015, making the comparison unreliable.
-- **Discontinued products still drive revenue**
-Discontinued products contribute approximately 14.61% of total revenue, raising questions about product lifecycle decisions.
-- **Discounts do not consistently improve revenue**
-Higher discounts do not show a clear positive impact on revenue, suggesting potential margin loss without significant benefit.
-- **Customer contribution is uneven**
-A small group of customers accounts for a large share of total revenue, highlighting the importance of customer-focused strategies.
-- Shipping costs vary significantly by region
-Some regions incur higher shipping costs without clear evidence of proportional revenue benefit.
-
-### **Dashboard Highlights**
-The Power BI dashboard includes:
-- Revenue trends over time
-- Sales by product and category
-- Customer contribution analysis
-- Discount vs revenue relationship
-- Shipping cost comparison by region
-
-### 💡 **Recommendations**
-- Reassess the role of discontinued products in revenue generation
-- Review discounting strategies to protect margins
--  Focus on high-value customers for better retention
-- Optimize shipping costs in high-expense regions
-- Ensure accurate time comparisons when evaluating growth
-   
-🌐 **Live Interactive Dashboard:**  
-[View Full Screen Report](https://app.powerbi.com/view?r=eyJrIjoiMzM5NGNhYmYtMWQzMS00Zjk3LWIzODMtYWJiNjdhNzU3YTdiIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9&pageName=624f61e09829e77106e2)
+- Customer Value Distribution
+- Customer Demographic Analysis
+- Operational Performance & SLA Tracking
+- Regional Revenue Performance
 
 ---
-## 📈 Project 8: SQL Global Sales Analytics
 
-**Objective:**  
-Analyze regional sales performance to identify which markets generate the highest revenue versus the highest profitability.
+## 📈 KPIs Monitored
 
-**Business Question:**  
-Are the highest-revenue regions also the most profitable once hidden cost differences are considered?
+- Revenue
+- Profit
+- Margin %
+- Orders
+- Customers
+- Units Sold
+- Year-over-Year Growth
+- Regional Revenue
+- Category Revenue
+- Average Delivery Days
 
-**Tools Used:**  
-`SQL`
-
-**Key Skills Demonstrated:**  
-- Common Table Expressions (CTEs)  
-- Multi-table Joins  
-- Aggregations & Profit Calculations  
-- Revenue vs Profitability Analysis  
-
-**Key Insight:**  
-This analysis revealed that **high revenue does not always translate to high profit**, helping shift focus from top-line sales to margin-aware performance decisions.
-
-🔗 **View SQL Code:**  
-[View SQL Project](./SQL_Project_Sales_Analysis.sql)
 ---
 
-## 🎯 What These Projects Demonstrate
+## 🛠 Tools Used
 
-Across these projects, I consistently apply analytics to:
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- Pivot Tables
+- Pivot Charts
+- Interactive Slicers
+- Excel Form Controls
 
-- Clean and structure raw data  
-- Build interactive dashboards for decision-making  
-- Track KPIs and business performance  
-- Compare revenue vs profitability  
-- Analyze customer, product, and campaign trends  
-- Communicate findings in a stakeholder-friendly format
-  
 ---
 
-## 🤝 Let’s Connect
+## 💡 Skills Demonstrated
 
-I’m currently open to opportunities in:
+- Executive Reporting
+- Business Intelligence
+- KPI Development
+- Dashboard Design
+- Business Storytelling
+- Data Cleaning & Transformation
+- Interactive Reporting
+- Data Visualization
 
-- **Data Analysis**
-- **Business Intelligence Analysis**
-- **Reporting Analysis**
-- **Operations Analysis**
-- **Marketing / Growth Analysis**
+---
+
+## 📈 Key Insights
+
+- The United States consistently generated the highest revenue across all markets.
+- Computers and Home Appliances remained the strongest-performing product categories.
+- Games & Toys consistently underperformed, highlighting opportunities for targeted commercial strategies.
+- Revenue concentration across a few major markets suggests diversification opportunities.
+
+---
+
+## 🎯 Business Recommendations
+
+- Increase investment in high-performing regions while improving market penetration in underperforming countries.
+- Expand high-margin product categories to improve profitability.
+- Implement targeted promotional campaigns for underperforming product lines.
+- Continue monitoring operational KPIs to improve customer experience and delivery performance.
+
+---
+
+# 📁 Portfolio Projects
+
+## 📊 Executive Business Review Dashboard
+
+**Tools:** Excel • Power Query • Power Pivot
+
+Interactive executive reporting solution providing a comprehensive view of organizational performance through dynamic dashboards and automated insights.
+
+---
+
+## 🌍 Climate Change Public Opinion Analysis
+
+**Tools:** PostgreSQL • SQL • Power BI
+
+Analyzed **15.7 million climate-related tweets** to explore global public sentiment toward climate change.
+
+### Highlights
+
+- Large-scale SQL data transformation
+- Sentiment classification
+- Trend analysis
+- Geographic analysis
+- Interactive Power BI dashboard
+
+---
+
+## 👥 Customer Retention & Churn Analysis
+
+**Tools:** SQL • Power BI • Excel
+
+Built an executive dashboard to identify customer churn patterns, retention opportunities, purchasing behavior, and revenue contribution.
+
+### Highlights
+
+- Customer segmentation
+- Churn analysis
+- Executive KPI reporting
+- Revenue contribution analysis
+
+---
+
+## 📈 Sales & Marketing Performance Dashboard
+
+**Tools:** Power BI • SQL • Excel
+
+Interactive dashboard measuring sales performance, marketing effectiveness, revenue growth, and campaign performance.
+
+---
+
+## 🛒 Global Sales Analytics
+
+**Tools:** PostgreSQL
+
+Performed advanced SQL analysis using joins, CTEs, views, aggregate functions, and window functions to answer complex business questions and uncover sales insights.
+
+---
+
+## 👨‍💻 Employee Salary Analysis
+
+**Tools:** Python • Pandas • Matplotlib
+
+Performed exploratory data analysis to identify salary trends, workforce distribution, and compensation insights using Python.
+
+---
+
+# 💼 Core Competencies
+
+- Business Intelligence
+- Executive Reporting
+- Dashboard Development
+- KPI Design
+- SQL Analytics
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Business Storytelling
+- Decision Support
+
+---
+
+# 🛠 Technical Skills
+
+### Analytics
+
+- Microsoft Excel
+- Power BI
+- Power Query
+- DAX
+
+### Databases
+
+- PostgreSQL
+- MySQL
+
+### Programming
+
+- SQL
+- Python
+
+### Productivity
+
+- Git
+- GitHub
+- Microsoft Office
+- Google Workspace
+
+---
+
+# 📫 Connect With Me
 
 📧 **Email:** gloriaaustin002@gmail.com  
+
 🔗 **LinkedIn:** [Gloria Austin](http://www.linkedin.com/in/gloria-austin-143334292)
+
+💻 **GitHub:** https://github.com/Gloriaufedo
 
 ---
 
-⭐ If you found this portfolio interesting, feel free to explore the projects and connect with me.
+⭐ Thank you for visiting my portfolio! I’m always excited to collaborate on data-driven projects and continuously expand my expertise in Business Intelligence, Analytics, and Data Science.
