@@ -379,7 +379,7 @@ Designed an interactive Power BI dashboard to monitor sales performance, marketi
 - Dashboard Design
 - KPI Reporting
 
-👉 **[View Project](./Project%203%20-%20Sales%20&%20Marketing%20Dashboard/)****
+👉 **[View Project](./Project%203%20-%20Sales%20&%20Marketing%20Dashboard/)**
 
 ---
 
