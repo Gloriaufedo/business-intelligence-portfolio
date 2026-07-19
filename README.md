@@ -336,7 +336,7 @@ Developed a customer analytics solution to evaluate purchasing behaviour, custom
 
 **Tools:** SQL
 
-![Executive Overview](./Project%204%20-%20Global%20Sales%20Analytics/nt_overview.png)
+![Executive Overview](./Project%204%20-%20Global%20Sales%20Analytics/nt-2.png)
 
 ### 📌 Overview
 
@@ -366,6 +366,8 @@ Performed SQL-based sales analysis to evaluate business performance across produ
 # 📊 Sales & Marketing Dashboard
 
 **Tools:** Power BI
+
+![Executive Overview](./Project%203%20-%20Sales%20&%20Marketing%20Dashboard/sm-2.png)
 
 ### 📌 Overview
 
