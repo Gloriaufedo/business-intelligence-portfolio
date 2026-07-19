@@ -68,6 +68,8 @@ My portfolio showcases end-to-end analytics projects focused on executive report
 
 # Executive Business Review Dashboard (Microsoft Excel)
 
+![Executive Overview](./Project%207%20-%20Executive%20Business%20Review%20Dashboard/ebr-overview.png)
+
 > Interactive executive reporting solution built to monitor revenue, profitability, customers, products, and operational performance from a single reporting interface.
 
 ---
@@ -270,6 +272,8 @@ The analysis identified several important trends:
 
 **Tools:** PostgreSQL • Power BI • SQL • Data Visualization
 
+![Executive Overview](./Project%205%20-%20Climate%20Change%20Sentiment%20Analytics/cs-4.png)
+
 ### 📌 Overview
 
 Built an end-to-end analytics solution to analyze **15.7 million climate-related tweets**, uncovering global sentiment trends and improving the accessibility of large-scale environmental data through SQL transformations and interactive Power BI dashboards.
@@ -301,6 +305,8 @@ Built an end-to-end analytics solution to analyze **15.7 million climate-related
 
 **Tools:** SQL • Power BI • Excel
 
+![Executive Overview](./Project%206%20-%20Customer%20Retention%20&%20Churn%20Analysis/customer_retention_churn_dashboard.png)
+
 ### 📌 Overview
 
 Developed a customer analytics solution to evaluate purchasing behaviour, customer retention, and churn, helping identify revenue opportunities and high-risk customer segments.
@@ -329,6 +335,8 @@ Developed a customer analytics solution to evaluate purchasing behaviour, custom
 # 💰 Global Sales Analytics
 
 **Tools:** SQL
+
+![Executive Overview](./Project%204%20-%20Global%20Sales%20Analytics/nt_overview.png)
 
 ### 📌 Overview
 
