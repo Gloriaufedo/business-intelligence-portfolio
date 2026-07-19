@@ -293,7 +293,7 @@ Built an end-to-end analytics solution to analyze **15.7 million climate-related
 - Dashboard Design
 - Business Intelligence
 
-➡️ **View Project**
+👉 **[View Project](./Project%205%20-%20Climate%20Change%20Sentiment%20Analytics/)**
 
 ---
 
@@ -351,7 +351,7 @@ Performed SQL-based sales analysis to evaluate business performance across produ
 - Common Table Expressions (CTEs)
 - Business Intelligence
 
-➡️ **View Project**
+👉 **[View Project](./Project%204%20-%20Global%20Sales%20Analytics/)**
 
 ---
 
@@ -379,7 +379,7 @@ Designed an interactive Power BI dashboard to monitor sales performance, marketi
 - Dashboard Design
 - KPI Reporting
 
-➡️ **View Project**
+👉 **[View Project](./Project%203%20-%20Sales%20&%20Marketing%20Dashboard/)****
 
 ---
 
@@ -407,7 +407,7 @@ Performed exploratory data analysis on employee salary data to uncover salary tr
 - Matplotlib
 - Exploratory Data Analysis
 
-➡️ **View Project**
+👉 **[View Project](./Project%202%20-%20Employee%20Salary%20Analysis/)**
 
 ---
 
@@ -435,7 +435,7 @@ Analysed Amazon retail sales data to identify sales patterns, customer behaviour
 - Exploratory Data Analysis
 - Business Analytics
 
-➡️ **View Project**
+👉 **[View Project](./Project%201%20-%20Amazon%20Sales%20Exploratory%20Data%20Analysis/)**
 
 ---
 
