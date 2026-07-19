@@ -231,19 +231,18 @@ The analysis identified several important trends:
 
 ### Executive Overview
 
-![Executive Overview](Project%207%20-%20Executive%20Business%20Review/ebr-overview.png)
+![Executive Overview](https://raw.githubusercontent.com/Gloriaufedo/business-intelligence-portfolio/main/Project%207%20-%20Executive%20Business%20Review/ebr-overview.png)
 
 ---
 
 ### Commercial Dashboard
 
-![Commercial Dashboard](Project%207%20-%20Executive%20Business%20Review/ebr-commercial.png)
+![Commercial Dashboard](https://raw.githubusercontent.com/Gloriaufedo/business-intelligence-portfolio/main/Project%207%20-%20Executive%20Business%20Review/ebr-commercial.png)
 
 ---
 
 ### Customer & Operations Dashboard
-
-![Customer Dashboard](Project%207%20-%20Executive%20Business%20Review/ebr-customers.png)
+![Customer Dashboard](https://raw.githubusercontent.com/Gloriaufedo/business-intelligence-portfolio/main/Project%207%20-%20Executive%20Business%20Review/ebr-customers.png)
 
 ---
 
@@ -262,3 +261,256 @@ The analysis identified several important trends:
 - Operational Analytics
 
 ---
+
+# 📂 Portfolio Projects
+
+---
+
+# 🌍 Climate Change Sentiment Analytics
+
+**Tools:** PostgreSQL • Power BI • SQL • Data Visualization
+
+### 📌 Overview
+
+Built an end-to-end analytics solution to analyze **15.7 million climate-related tweets**, uncovering global sentiment trends and improving the accessibility of large-scale environmental data through SQL transformations and interactive Power BI dashboards.
+
+### Highlights
+
+- Imported and transformed over **15.7 million** records in PostgreSQL.
+- Built optimized SQL views for reporting.
+- Performed sentiment classification and KPI development.
+- Created interactive Power BI dashboards for executive reporting.
+- Conducted descriptive and diagnostic analysis of climate conversations.
+
+### Skills Demonstrated
+
+- SQL
+- PostgreSQL
+- Database Optimization
+- ETL
+- Data Cleaning
+- Power BI
+- Dashboard Design
+- Business Intelligence
+
+➡️ **View Project**
+
+---
+
+# 📉 Customer Retention & Churn Analytics
+
+**Tools:** SQL • Power BI • Excel
+
+### 📌 Overview
+
+Developed a customer analytics solution to evaluate purchasing behaviour, customer retention, and churn, helping identify revenue opportunities and high-risk customer segments.
+
+### Highlights
+
+- Calculated customer retention and churn metrics.
+- Built KPI dashboards for executive reporting.
+- Analysed repeat purchase behaviour.
+- Identified revenue contribution by customer segment.
+- Designed an interactive Power BI dashboard for business monitoring.
+
+### Skills Demonstrated
+
+- Customer Analytics
+- SQL
+- Power BI
+- KPI Development
+- Business Reporting
+- Data Storytelling
+
+➡️ **View Project**
+
+---
+
+# 💰 Global Sales Analytics
+
+**Tools:** SQL
+
+### 📌 Overview
+
+Performed SQL-based sales analysis to evaluate business performance across products, customers, and regions while generating actionable business insights through advanced SQL queries.
+
+### Highlights
+
+- Sales trend analysis
+- Product performance analysis
+- Regional revenue analysis
+- Customer purchasing behaviour
+- Profitability analysis
+- Advanced SQL querying
+
+### Skills Demonstrated
+
+- SQL
+- Window Functions
+- Aggregations
+- Common Table Expressions (CTEs)
+- Business Intelligence
+
+➡️ **View Project**
+
+---
+
+# 📊 Sales & Marketing Dashboard
+
+**Tools:** Power BI
+
+### 📌 Overview
+
+Designed an interactive Power BI dashboard to monitor sales performance, marketing effectiveness, and business KPIs through dynamic visualizations.
+
+### Highlights
+
+- Sales KPI tracking
+- Marketing performance analysis
+- Interactive filtering
+- Dynamic reports
+- Executive dashboards
+
+### Skills Demonstrated
+
+- Power BI
+- DAX
+- Data Visualization
+- Dashboard Design
+- KPI Reporting
+
+➡️ **View Project**
+
+---
+
+# 🐍 Employee Salary Analysis
+
+**Tools:** Python • Pandas • Matplotlib
+
+### 📌 Overview
+
+Performed exploratory data analysis on employee salary data to uncover salary trends, workforce characteristics, and factors influencing compensation.
+
+### Highlights
+
+- Data cleaning
+- Exploratory data analysis
+- Statistical summaries
+- Data visualization
+- Feature exploration
+
+### Skills Demonstrated
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Exploratory Data Analysis
+
+➡️ **View Project**
+
+---
+
+# 🛒 Amazon Sales Exploratory Data Analysis
+
+**Tools:** Python • Pandas • Matplotlib
+
+### 📌 Overview
+
+Analysed Amazon retail sales data to identify sales patterns, customer behaviour, and product performance through exploratory data analysis.
+
+### Highlights
+
+- Data cleaning
+- Sales trend analysis
+- Product performance analysis
+- Customer insights
+- Visual storytelling
+
+### Skills Demonstrated
+
+- Python
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Analytics
+
+➡️ **View Project**
+
+---
+
+# 📚 Currently Learning
+
+I believe continuous learning is essential for delivering better analytics solutions. I am currently expanding my skills in:
+
+- Advanced SQL optimization
+- Analytics Engineering fundamentals
+- Microsoft Fabric
+- dbt
+- Cloud-based analytics workflows
+- Advanced Power BI modelling
+
+---
+
+# 🏅 Core Competencies
+
+- Business Intelligence
+- Executive Reporting
+- Dashboard Development
+- KPI Design
+- Data Visualization
+- SQL Query Development
+- PostgreSQL
+- Microsoft Excel
+- Power BI
+- Python for Data Analysis
+- ETL & Data Preparation
+- Customer Analytics
+- Sales Analytics
+- Marketing Analytics
+- Operational Reporting
+- Data Storytelling
+
+---
+
+# 📈 Business Impact
+
+Across my portfolio, my projects demonstrate the ability to:
+
+✔ Design executive-ready dashboards for decision-makers.
+
+✔ Transform raw datasets into actionable business insights.
+
+✔ Build interactive reports that improve business visibility.
+
+✔ Perform SQL-driven business analysis.
+
+✔ Deliver end-to-end analytics solutions from data preparation to visualization.
+
+✔ Apply analytical thinking to solve real-world business problems.
+
+---
+
+# 🚀 What I'm Building Next
+
+Upcoming portfolio projects include:
+
+- Retail Data Warehouse & Executive BI Solution (PostgreSQL + Power BI)
+- Bitcoin Fraud Detection Analysis (Python)
+- Supply Chain Performance Dashboard
+- Financial Performance Dashboard
+- HR Workforce Analytics Dashboard
+
+---
+
+# 📬 Let's Connect
+
+📧 **Email:** gloriaaustin002@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/gloria-austin-143334292
+
+💻 **GitHub:** https://github.com/Gloriaufedo
+
+---
+
+⭐ *If you found these projects interesting, feel free to explore the repositories or connect with me on LinkedIn. I'm always open to learning, collaboration, and opportunities in Business Intelligence, Data Analytics, and Reporting.*
