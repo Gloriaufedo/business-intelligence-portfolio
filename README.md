@@ -322,7 +322,7 @@ Developed a customer analytics solution to evaluate purchasing behaviour, custom
 - Business Reporting
 - Data Storytelling
 
-👉 **[View Project](./Project%206%20-%20Customer%20Retention%20%26%20Churn%20Analytics/)**
+👉 **[View Project](./Project%206%20-%20Customer%20Retention%20&%20Churn%20Analysis/)**
 
 ---
 
