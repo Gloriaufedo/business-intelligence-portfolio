@@ -4,7 +4,7 @@
 
 An interactive **Executive Business Reporting (EBR)** solution built entirely in **Microsoft Excel** to transform structured retail data into executive-level insights across revenue, profitability, customers, products, and operations.
 
-The project was developed for a fictional consumer-electronics retailer, **Apex Retail Group**, operating across **North America, Europe, and Asia**.
+The project was developed for a fictional consumer-electronics retailer, **Vertex Solutions**, operating across **North America, Europe, and Asia**.
 
 The objective was to create a reporting system that allows decision-makers to quickly understand business performance, identify trends, and investigate commercial and operational drivers.
 
@@ -12,7 +12,7 @@ The objective was to create a reporting system that allows decision-makers to qu
 
 ## 🎯 Business Objective
 
-Apex Retail Group operates across multiple markets, stores, product categories, and customer segments.
+Vertex Solutions operates across multiple markets, stores, product categories, and customer segments.
 
 The EBR solution was designed to answer key management questions such as:
 
@@ -30,7 +30,7 @@ The final solution converts these questions into an interactive executive report
 
 ## 🏢 Business Context
 
-- **Company:** Apex Retail Group  
+- **Company:** Vertex Solutions
 - **Industry:** Consumer Electronics Retail  
 - **Markets:** North America, Europe & Asia  
 - **Reporting Tool:** Microsoft Excel  
